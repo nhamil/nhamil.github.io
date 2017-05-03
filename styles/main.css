@@ -5,6 +5,8 @@ html {
 
 body {
     background-color: #E0E0E0;
+    background-image: url("/images/space.png");
+    background-repeat: repeat;
     margin: 0;
     padding: 0;
 }
