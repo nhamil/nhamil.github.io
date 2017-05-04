@@ -4,7 +4,7 @@ $(document).ready(function() {
         $(activeLink).addClass('active');    
         
         $('.submenu').click(function() {
-            $(this).next().toggle(500);
+            $(this).next().toggle(250);
             $(this).toggleClass('nav-mobile-highlight');
         });
     });

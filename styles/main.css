@@ -1,12 +1,14 @@
 html {
     font-family: 'Open Sans', sans-serif;
     font-size: 16pt;
+    height: 100%;
 }
 
 body {
     background-color: #E0E0E0;
     background-image: url("/images/space.png");
     background-repeat: repeat;
+    min-height: 100%;
     margin: 0;
     padding: 0;
 }
@@ -82,17 +84,28 @@ body {
     width: 250px;
 }
 
-.content, .footer {
+.container {
     background-color: #F0F0F0;
     display: block;
     margin: 0 auto;
-    padding: 70px 70px;
-    position: center;
-    width: 60%;
+    min-height: 100vh;
+    position: relative;
+    width: 70%;
+    z-index: -1;
+}
+
+.content {
+    padding: 50px 50px 150px 50px;
 }
 
 .footer {
+    bottom: 0;
+    display: inline;
+    margin: 0 auto;
     text-align: center;
+    padding-bottom: 30px;
+    position: absolute;
+    width: 100%;
 }
 
 @media only screen and (max-width : 700px) {
@@ -102,8 +115,10 @@ body {
     .nav-mobile {
         display: block;
     }
-    .content, .footer {
-        padding: 70px 30px;
+    .container {
         width: auto;
+    }
+    .content {
+        padding: 50px 20px 150px 20px;
     }
 }
