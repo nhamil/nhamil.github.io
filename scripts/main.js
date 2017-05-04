@@ -1,5 +1,5 @@
 $(document).ready(function() {
-    $('.nav-container').load('_navbar.html', function() {
+    $('.nav-container').load('/_navbar.html', function() {
         var activeLink = '.menu-' + $('.nav-container').attr('data-active');
         $(activeLink).addClass('active');    
         
@@ -8,5 +8,5 @@ $(document).ready(function() {
             $(this).toggleClass('nav-mobile-highlight');
         });
     });
-    $('.footer').load('_footer.html', function() {});
+    $('.footer').load('/_footer.html', function() {});
 });
