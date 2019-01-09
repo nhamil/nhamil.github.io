@@ -10,6 +10,13 @@ I am a senior majoring in Computer Science at [Michigan Technological University
 
 You can view my GitHub account [here](https://www.github.com/nhamil). 
 
+# Projects 
+
+- [Oasis Engine](https://www.github.com/nhamil/oasis) - WIP 3D game engine written in C++ 
+- [Multiscreen Slideshow](https://github.com/nhamil/opengl-examples) - Developed a slideshow program that can be run over multiple computers and displays. Created as a paid project for a professor. 
+- [Modeler3D](https://github.com/CS3141Team1/modeler3d) - 3D model viewer written for CS3141 Team Software Project at Michigan Tech 
+- [Quest for the Abacus](https://github.com/nhamil/quest-for-the-abacus) - 2D top-down game developed for my first semester of [Husky Game Development](https://www.huskygames.com) 
+
 # Resume 
 
 <!-- because of the styling, it's easier to make resume part just html --> 
