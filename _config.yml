@@ -1,0 +1,6 @@
+name: Test Name 
+markdown: kramdown
+title: Thinic
+description: Home
+show_downloads: false 
+theme: jekyll-theme-slate 
