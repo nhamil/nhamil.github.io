@@ -72,6 +72,14 @@ You can view my GitHub account [here](https://www.github.com/nhamil).
         <li>Procedural Generation</li> 
         <li>Physics Simulations</li> 
     </ul>
+    <br> 
+    <strong>Computer Skills</strong><br>
+    <ul> 
+        <li>Fluent in C, C++, Java</li> 
+        <li>Familiar with C#, Python, HTML, CSS, JavaScript, SQL</li> 
+        <li>Proficient in software design and development</li> 
+        <li>Experience with concurrent computing and databases</li> 
+    </ul> 
     <br><hr>
     <strong>Work Experience</strong><br>
     <br>
