@@ -64,7 +64,7 @@ You can view my GitHub account [here](https://www.github.com/nhamil).
         <li>Collaborate using Scrum and Agile development processes</li> 
     </ul>
     <br>
-    <strong>Self Study <span class="resume-right">2007 - Present</span></strong><br>
+    <strong>Personal Projects <span class="resume-right">2007 - Present</span></strong><br>
     C, C++, and Java for work with projects including:
     <ul>
         <li>3D Graphics</li> 
