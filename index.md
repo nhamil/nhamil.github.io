@@ -1,6 +1,7 @@
 --- 
-layout: default 
-description: Main Page  
+layout: default
+title: Main Page
+description: About myself
 --- 
 
 # About Me 
