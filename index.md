@@ -48,7 +48,7 @@ You can view my GitHub account [here](https://www.github.com/nhamil).
     <strong>Michigan Technological University, Houghton, MI <span class="resume-right">September 2016 - Present</span></strong><br>
     <strong>B.S., Computer Science <span class="resume-right">Expected Graduation: December 2019</span></strong><br>
     Department GPA: 4.00<br>
-    Cumulative GPU: 3.90<br> 
+    Cumulative GPU: 3.80<br> 
     Recipient of five Dean’s List honors<br>
     <br><hr>
     <strong>Project and Related Experience</strong><br>
