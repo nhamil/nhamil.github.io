@@ -1,11 +1,11 @@
 --- 
 layout: default 
-description: Home  
+description: Main Page  
 --- 
 
 # About Me 
 
-All about me. 
+All about me, Nicholas Hamilton. 
 
 # Resume 
 
