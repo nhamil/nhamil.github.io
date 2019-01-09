@@ -1,7 +1,7 @@
 --- 
 layout: default
 title: Main Page
-description: About myself
+description: Main Page
 --- 
 
 # About Me 
