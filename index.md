@@ -46,10 +46,7 @@ You can view my GitHub account [here](https://www.github.com/nhamil).
 <div class="resume">
     <div class="resume-top"> 
         <h3>Nicholas R. Hamilton</h3>
-        1202 College Ave, Apt 8, Houghton, MI 49931-1196<br>
-        507-993-5105<br>
         nrhamilt@mtu.edu<br>
-        nhamil.github.io<br>
     </div><hr>
     <strong>Education</strong><br>
     <br>
@@ -76,16 +73,15 @@ You can view my GitHub account [here](https://www.github.com/nhamil).
     <strong>Personal Projects <span class="resume-right">2007 - Present</span></strong><br>
     C, C++, and Java for work with projects including:
     <ul>
-        <li>3D Graphics</li> 
+        <li>3D Graphics and Physics Simulations</li> 
         <li>Machine Learning</li> 
         <li>Procedural Generation</li> 
-        <li>Physics Simulations</li> 
     </ul>
     <br> 
     <strong>Computer Skills</strong><br>
     <ul> 
         <li>Fluent in C, C++, Java</li> 
-        <li>Familiar with C#, Python, HTML, CSS, JavaScript, SQL</li> 
+        <li>Familiar with C#, Python, HTML, CSS, JavaScript, SQL, Linux</li> 
         <li>Proficient in software design and development</li> 
         <li>Experience with concurrent computing and databases</li> 
     </ul> 
@@ -99,11 +95,12 @@ You can view my GitHub account [here](https://www.github.com/nhamil).
         <li>Assist students with homework and studying for exams</li>
     </ul>
     <br>
-    <strong>Display Wall Software Developer <span class="resume-right">August 2018 - November 2018</span></strong><br>
+    <strong>Software Developer <span class="resume-right">August 2018 - November 2018</span></strong><br>
     Michigan Technological University, Houghton, MI<br>
     <ul>
-        <li>Work on display wall slideshow program using OpenGL</li> 
         <li>Paid project for computer science professor</li> 
+        <li>Presentation software using 24 monitors and 8 computers including video and audio</li> 
+        <li>Programmed with C and OpenGL for syncing and hardware acceleration</li> 
     </ul>
     <br>
     <strong>Computer Science Lab Teaching Assistant <span class="resume-right">September 2017 - December 2017</span></strong><br>
