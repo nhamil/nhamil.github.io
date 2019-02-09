@@ -48,7 +48,7 @@ You can view my GitHub account [here](https://www.github.com/nhamil).
         <h3>Nicholas R. Hamilton</h3>
         nrhamilt@mtu.edu<br>
     </div><hr>
-    <strong>Education</strong><br>
+    <strong>EDUCATION</strong><br>
     <br>
     <strong>Michigan Technological University, Houghton, MI <span class="resume-right">September 2016 - Present</span></strong><br>
     <strong>B.S., Computer Science <span class="resume-right">Expected Graduation: December 2019</span></strong><br>
@@ -57,7 +57,7 @@ You can view my GitHub account [here](https://www.github.com/nhamil).
     Cumulative GPU: 3.80<br> 
     Recipient of five Dean’s List honors<br>
     <br><hr>
-    <strong>Project and Related Experience</strong><br>
+    <strong>PROJECT AND RELATED EXPERIENCE</strong><br>
     <br>
     <strong>Husky Game Development Enterprise <span class="resume-right">January 2017 - December 2018</span></strong><br>
     Independent work:<br> 
@@ -86,7 +86,7 @@ You can view my GitHub account [here](https://www.github.com/nhamil).
         <li>Experience with concurrent computing and databases</li> 
     </ul> 
     <br><hr>
-    <strong>Work Experience</strong><br>
+    <strong>WORK EXPERIENCE</strong><br>
     <br>
     <strong>Computer Science Learning Center Coach <span class="resume-right">September 2018 - Present</span></strong><br>
     Michigan Technological University, Houghton, MI<br>
