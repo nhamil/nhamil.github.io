@@ -60,11 +60,11 @@ You can view my GitHub account [here](https://www.github.com/nhamil).
     <strong>Project and Related Experience</strong><br>
     <br>
     <strong>Husky Game Development Enterprise <span class="resume-right">January 2017 - December 2018</span></strong><br>
-    Independent work<br> 
+    Independent work:<br> 
     <ul> 
         <li>3D game engine development from the ground up using Java and OpenGL</li> 
     </ul> 
-    Team lead in charge of game development group
+    Team Lead in charge of game development group:
     <ul>
         <li>Team communication using GitHub, Slack, Taiga, and Google services</li>
         <li>Collaborate using Scrum and Agile development processes</li> 
