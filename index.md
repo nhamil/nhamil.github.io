@@ -20,7 +20,7 @@ You can view my GitHub account [here](https://www.github.com/nhamil).
 
 # Resume 
 
-<!-- because of the styling, it's easier to make resume part just html --> 
+<!-- because of the styling, it's easier to make resume part html --> 
 <style> 
 .resume h3 {
     padding: 0;
@@ -40,7 +40,7 @@ You can view my GitHub account [here](https://www.github.com/nhamil).
 }
 </style> 
 <p>
-    You can download a PDF of my resume <a href="/resume/nicholas-hamilton-resume-summer-2019.pdf">here</a>.
+    You can download a PDF of my resume <a href="/resume/nicholas-hamilton-resume-2019-09-13.pdf">here</a>.
 </p>
 <br><br>
 
@@ -75,9 +75,9 @@ You can view my GitHub account [here](https://www.github.com/nhamil).
     <strong>Personal Projects <span class="resume-right">2007 - Present</span></strong><br>
     C, C++, and Java for work with projects including:
     <ul>
-        <li>3D Graphics and Physics Simulations</li> 
         <li>Machine Learning</li> 
-        <li>Procedural Generation</li> 
+        <li>2D and 3D physics simulations</li> 
+        <li>3D Graphics and procedural generation</li> 
     </ul>
     <br> 
     <strong>Computer Skills</strong><br>
@@ -94,7 +94,7 @@ You can view my GitHub account [here](https://www.github.com/nhamil).
     IBM, Rochester, MN
     <ul>
         <li>Work in Agile, collaborative environment</li> 
-        <li>Develop tools for migrating between web application servers</li> 
+        <li>Develop tools for migrating WebSphere applications</li> 
     </ul>
     <br>
     <strong>Computer Science Learning Center Coach <span class="resume-right">September 2018 - Present</span></strong><br>
