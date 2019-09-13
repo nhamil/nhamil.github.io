@@ -75,9 +75,9 @@ You can view my GitHub account [here](https://www.github.com/nhamil).
     <strong>Personal Projects <span class="resume-right">2007 - Present</span></strong><br>
     C, C++, and Java for work with projects including:
     <ul>
-        <li>Machine Learning</li> 
+        <li>Machine learning</li> 
         <li>2D and 3D physics simulations</li> 
-        <li>3D Graphics and procedural generation</li> 
+        <li>3D graphics and procedural generation</li> 
     </ul>
     <br> 
     <strong>Computer Skills</strong><br>
