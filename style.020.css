@@ -1,10 +1,10 @@
 html {
     font-family: 'Source Sans Pro', 'Open Sans', sans-serif;  
-    font-size: 1.2em;
+    font-size: 1.0em;
     font-weight: 300;
     margin: 0; 
     padding: 0; 
-    text-align: justify;
+    text-align: left;
 }
 
 a {
@@ -266,7 +266,7 @@ h1, h2, h3, h4, h5, h6 {
     padding: 0; 
     float: right; 
     padding-left: 10px;
-    font-size: 0.8em;
+    font-size: 0.9em;
 }
 
 .preview-container > div > img {
@@ -318,6 +318,7 @@ hr.thick {
 
     .preview-row {
         display: block; 
+        font-size: 1.1em;
     }
     
     .preview-row-left {
